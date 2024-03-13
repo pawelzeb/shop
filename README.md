@@ -1,7 +1,7 @@
 # **Przedmiot:** "Projektowanie i programowanie systemów internetowych"
-# **Rok Akademicki:** "2023/2024, 4 semestr"
-# Opiekun Projektu: mgr inż. Krzysztof Rewak
-# Tytuł Projektu: SHOP
+ **Rok Akademicki:** "2023/2024, 4 semestr"
+ Opiekun Projektu: mgr inż. Krzysztof Rewak
+ Tytuł Projektu: SHOP
 
 # Realizatorzy Projektu: 
 - **Numer indeksu:** 43196
