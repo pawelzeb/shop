@@ -8,7 +8,7 @@
 - **Imię i nazwisko:** "Paweł Żebrowski"
 - **Adres e-mail:** "pawel.zebrowski@studenci.collegiumwitelona.pl"
 
-- **Numer indeksu:** 
+- **Numer indeksu:*42116* 
 - **Imię i nazwisko:** "Daniel Mosakowski"
 - **Adres e-mail:** "pawel.zebrowski@studenci.collegiumwitelona.pl"
 
